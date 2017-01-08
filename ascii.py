@@ -1,5 +1,5 @@
 #Elizabeth Cepernich
-#eceperni@ucsc.edu // 1316976
+#ecepernich@gmail.com
 #CMPS112 Winter 2016
 #Final Project
 #3/11/2016
